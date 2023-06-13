@@ -1,2 +1,2 @@
 #!/bin/bash
-ech $(($TRUEKNOWLEDGE + 128))
+ech $(($TRUEKNOWLEDGE+128))
